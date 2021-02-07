@@ -78,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612724483523</updated>
-      <workItem from="1612724538024" duration="7694000" />
+      <workItem from="1612724538024" duration="7936000" />
     </task>
     <task id="LOCAL-00001" summary="CrEATED a service class">
       <created>1612729928167</created>
@@ -199,7 +199,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612734185747</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Renamed the  a_example file in src &gt; in to a_example.txt">
+      <created>1612735619910</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1612735619910</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Renamed the  a_example file in src &gt; out to a_example.txt">
+      <created>1612735654659</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1612735654659</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +248,8 @@
     <MESSAGE value="Created an override toString() in Pizza class" />
     <MESSAGE value="Implemented The service class" />
     <MESSAGE value="No output from the files" />
-    <option name="LAST_COMMIT_MESSAGE" value="No output from the files" />
+    <MESSAGE value="Renamed the  a_example file in src &gt; in to a_example.txt" />
+    <MESSAGE value="Renamed the  a_example file in src &gt; out to a_example.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed the  a_example file in src &gt; out to a_example.txt" />
   </component>
 </project>
