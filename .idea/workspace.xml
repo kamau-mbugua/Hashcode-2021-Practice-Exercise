@@ -68,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612724483523</updated>
-      <workItem from="1612724538024" duration="3374000" />
+      <workItem from="1612724538024" duration="3615000" />
     </task>
     <task id="LOCAL-00001" summary="CrEATED a service class">
       <created>1612729928167</created>
@@ -91,7 +91,28 @@
       <option name="project" value="LOCAL" />
       <updated>1612730953458</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added d_many_pizzas dataset &#10;file">
+      <created>1612730991629</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612730991629</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added a_example dataset in In file">
+      <created>1612731171315</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612731171315</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added a_example dataset in out file">
+      <created>1612731195328</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612731195328</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +133,9 @@
     <MESSAGE value="CrEATED a service class" />
     <MESSAGE value="Added b_little_bit_of_everything dataset &#10;file" />
     <MESSAGE value="Added c_many_ingredients dataset &#10;file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added c_many_ingredients dataset &#10;file" />
+    <MESSAGE value="Added d_many_pizzas dataset &#10;file" />
+    <MESSAGE value="Added a_example dataset in In file" />
+    <MESSAGE value="Added a_example dataset in out file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a_example dataset in out file" />
   </component>
 </project>
