@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e618aa68-605f-4f8e-9723-be67cfd5a61a" name="Default Changelist" comment="" />
+    <list default="true" id="e618aa68-605f-4f8e-9723-be67cfd5a61a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practice_round_2021.pdf" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +28,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/out" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -34,6 +36,7 @@
       <recent name="com.kamauCoder" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kamau\IdeaProjects\hashcode2021" />
       <recent name="C:\Users\Kamau\IdeaProjects\hashcode2021\src\out" />
       <recent name="C:\Users\Kamau\IdeaProjects\hashcode2021\src\in" />
       <recent name="C:\Users\Kamau\IdeaProjects\hashcode2021\src" />
@@ -78,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612724483523</updated>
-      <workItem from="1612724538024" duration="7936000" />
+      <workItem from="1612724538024" duration="8553000" />
     </task>
     <task id="LOCAL-00001" summary="CrEATED a service class">
       <created>1612729928167</created>
@@ -213,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612735654659</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Finaly, gave the correct output">
+      <created>1612735759362</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1612735759362</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +260,7 @@
     <MESSAGE value="No output from the files" />
     <MESSAGE value="Renamed the  a_example file in src &gt; in to a_example.txt" />
     <MESSAGE value="Renamed the  a_example file in src &gt; out to a_example.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed the  a_example file in src &gt; out to a_example.txt" />
+    <MESSAGE value="Finaly, gave the correct output" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finaly, gave the correct output" />
   </component>
 </project>
