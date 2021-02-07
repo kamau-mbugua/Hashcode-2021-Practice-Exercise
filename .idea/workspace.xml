@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e618aa68-605f-4f8e-9723-be67cfd5a61a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/kamauCoder/DeliveredPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kamauCoder/DeliveredPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kamauCoder/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kamauCoder/Pizza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/kamauCoder/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kamauCoder/Service.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612724483523</updated>
-      <workItem from="1612724538024" duration="4920000" />
+      <workItem from="1612724538024" duration="5604000" />
     </task>
     <task id="LOCAL-00001" summary="CrEATED a service class">
       <created>1612729928167</created>
@@ -161,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612732145870</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Created and implemented an override String ; toString() class DeliveredPizza">
+      <created>1612732577495</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1612732577495</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +198,7 @@
     <MESSAGE value="Created Method writeOutputFile of in Class Service" />
     <MESSAGE value="Implemented the main Class" />
     <MESSAGE value="Created class Pizza" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created class Pizza" />
+    <MESSAGE value="Created and implemented an override String ; toString() class DeliveredPizza" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created and implemented an override String ; toString() class DeliveredPizza" />
   </component>
 </project>
