@@ -9,4 +9,7 @@ public class Service {
 
     public List<DeliveredPizza> process() {
     }
+
+    public void writeOutputFile(Path resolve, List<DeliveredPizza> pizzas) {
+    }
 }

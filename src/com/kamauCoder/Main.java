@@ -21,6 +21,7 @@ public class Main {
                     .forEach(path -> {
                         service.readInputFile(path);
                         List<DeliveredPizza> pizzas = service.process();
+                        service.writeOutputFile(outputPath.resolve(path.getFileName()), pizzas);
                     });
 
         }
