@@ -75,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612724483523</updated>
-      <workItem from="1612724538024" duration="5604000" />
+      <workItem from="1612724538024" duration="6184000" />
     </task>
     <task id="LOCAL-00001" summary="CrEATED a service class">
       <created>1612729928167</created>
@@ -168,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612732577495</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Created a Constructor in Pizza class">
+      <created>1612733218327</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1612733218327</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Created an override toString() in Pizza class">
+      <created>1612733347459</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1612733347459</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +213,8 @@
     <MESSAGE value="Implemented the main Class" />
     <MESSAGE value="Created class Pizza" />
     <MESSAGE value="Created and implemented an override String ; toString() class DeliveredPizza" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created and implemented an override String ; toString() class DeliveredPizza" />
+    <MESSAGE value="Created a Constructor in Pizza class" />
+    <MESSAGE value="Created an override toString() in Pizza class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created an override toString() in Pizza class" />
   </component>
 </project>

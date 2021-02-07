@@ -6,8 +6,8 @@ public class Pizza {
     public int count;
     public  String[] ingredients;
 
-    public Pizza(int count, String[] ingredients) {
-        this.count = count;
+    public Pizza(String count, String[] ingredients) {
+        this.count = Integer.parseInt(count);
         this.ingredients = ingredients;
     }
 

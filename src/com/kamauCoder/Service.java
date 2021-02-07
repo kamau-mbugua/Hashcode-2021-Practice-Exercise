@@ -1,6 +1,7 @@
 package com.kamauCoder;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.IOException;
 import java.lang.reflect.Array;
 import java.nio.file.Files;
@@ -48,5 +49,22 @@ public class Service {
     }
 
     public void writeOutputFile(Path resolve, List<DeliveredPizza> pizzas) {
+        try {Files.createDirectories(resolve.getParent());
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        try (BufferedWriter bufferedWriter = Files.newBufferedWriter(resolve)){
+            bufferedWriter.write(String.format("%d", pizzas.size()));
+            bufferedWriter.newLine();
+            for (DeliveredPizza deliveredPizza : pizzas){
+                bufferedWriter.write(String.format("%s", deliveredPizza));
+                bufferedWriter.newLine();
+            }
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }
