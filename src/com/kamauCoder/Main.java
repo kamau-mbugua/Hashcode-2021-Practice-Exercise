@@ -24,6 +24,6 @@ public class Main {
                         service.writeOutputFile(outputPath.resolve(path.getFileName()), pizzas);
                     });
 
-        }
+        } catch (Exception e){e.printStackTrace();}
     }
 }

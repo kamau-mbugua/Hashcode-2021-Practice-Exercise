@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e618aa68-605f-4f8e-9723-be67cfd5a61a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/kamauCoder/DeliveredPizza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/kamauCoder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kamauCoder/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kamauCoder/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kamauCoder/Service.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612724483523</updated>
-      <workItem from="1612724538024" duration="4057000" />
+      <workItem from="1612724538024" duration="4355000" />
     </task>
     <task id="LOCAL-00001" summary="CrEATED a service class">
       <created>1612729928167</created>
@@ -127,7 +125,28 @@
       <option name="project" value="LOCAL" />
       <updated>1612731258590</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Created Class DeliveredPizza">
+      <created>1612731665692</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612731665692</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Created Method process of List&lt;DeliveredPizza&gt; in Class Service">
+      <created>1612731796647</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1612731796647</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Created Method writeOutputFile of in Class Service">
+      <created>1612731887026</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612731887026</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +171,9 @@
     <MESSAGE value="Added a_example dataset in In file" />
     <MESSAGE value="Added a_example dataset in out file" />
     <MESSAGE value="modified a_example dataset in out file" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified a_example dataset in out file" />
+    <MESSAGE value="Created Class DeliveredPizza" />
+    <MESSAGE value="Created Method process of List&lt;DeliveredPizza&gt; in Class Service" />
+    <MESSAGE value="Created Method writeOutputFile of in Class Service" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Method writeOutputFile of in Class Service" />
   </component>
 </project>
